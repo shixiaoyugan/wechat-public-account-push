@@ -33,9 +33,9 @@ const USER_CONFIG = {
     // 每日一言
     oneTalk: false,
     // 土味情话(彩虹屁)
-    earthyLoveWords: false,
+    earthyLoveWords: true,
     // 朋友圈文案
-    momentCopyrighting: false,
+    momentCopyrighting: true,
     // 毒鸡汤
     poisonChickenSoup: false,
     // 古诗古文
