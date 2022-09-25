@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id:'oTjIU59w70mUMOCnKXOQ-25tHmW4',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'nmu5mB7dqDTCT-5PdnTDFnhn51Q0CISCSp3dqRyqNNI',
+      useTemplateId: 'FEMnQ8sD0m2d2TjvZcwl3X_qTE-EChaDveusGQsyuwM',
       // 所在省份
       province: '山东',
       // 所在城市
@@ -82,17 +82,17 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '小坤猪', year: '2005', date: '05-25',
+          type: '*生日', name: '0', year: '0', date: '0',
         },
         {
-          type: '节日', name: '在一起', year: '2022', date: '02-13',
+          type: '节日', name: '0', year: '0', date: '0',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
           type: '生日', name: '小鱼干', year: '2004', date: '10-28',
         },
         {
-          type: '节日', name: '相识', year: '2020', date: '09-01',
+          type: '生日', name: '小坤猪', year: '2005', date: '05-25',
         }
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
