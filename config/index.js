@@ -82,10 +82,10 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '0', year: '0', date: '0',
+          type: '*生日', name: '0', year: '2022', date: '10-28',
         },
         {
-          type: '节日', name: '0', year: '0', date: '0',
+          type: '节日', name: '0', year: '2022', date: '10-28',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
